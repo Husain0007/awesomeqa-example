@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="459" height="162.5">
+  <!-- Outer container -->
+  <rect
+    width="100%"
+    height="100%"
+    x="0"
+    y="0"
+    rx="8"
+    ry="8"
+    fill="#1C1C1F"
+    stroke="#302F36"
+    strokeWidth="1"
+  />
+  
+  <!-- Inner container -->
+  <g transform="translate(24, 20)">
+    <rect width="76.5" height="62.5" x="0" y="0" rx="8" ry="8" fill="rgba(93, 80, 195, 0.30)" overflow="hidden" />
+    
+    <!-- First shape within the inner container -->
+    <g transform="translate(10.5, 7.5)">
+      <rect width="57" height="47.5" x="0" y="0" rx="0" ry="0" fill="none" stroke="none" />
+      
+      <!-- Nested shapes within the first shape -->
+      <g transform="translate(0, 0)">
+        <rect width="57" height="47.5" x="0" y="0" rx="0" ry="0" fill="none" stroke="none" />
+        <rect width="47.51" height="35.63" x="5.5" y="5.94" rx="0" ry="0" fill="white" stroke="none" />
+        <rect width="5.51" height="5.51" x="14.25" y="17.81" rx="0" ry="0" fill="white" stroke="none" />
+        <rect width="5.51" height="5.51" x="23.5" y="17.81" rx="0" ry="0" fill="white" stroke="none" />
+        <rect width="28.49" height="12.76" x="9.51" y="7.44" rx="0" ry="0" fill="white" stroke="none" />
+        
+        <!-- Support agent sub-icon -->
+        <g transform="translate(0, 0)">
+          <rect width="38" height="38" x="0" y="0" rx="0" ry="0" fill="none" stroke="none" />
+          <rect width="38" height="38" x="0" y="0" rx="0" ry="0" fill="none" stroke="none" />
+          <rect width="31.67" height="28.50" x="3.17" y="4.75" rx="0" ry="0" fill="white" stroke="none" />
+          <rect width="3.17" height="3.17" x="9.50" y="14.25" rx="0" ry="0" fill="white" stroke="none" />
+          <rect width="3.17" height="3.17" x="19" y="14.25" rx="0" ry="0" fill="white" stroke="none" />
+          <rect width="18.99" height="10.21" x="6.34" y="4.75" rx="0" ry="0" fill="white" stroke="none" />
+        </g>
+      </g>
+    </g>
+  </g>
+  
+  <!-- Text section -->
+  <g transform="translate(0, 122.5)">
+    <text x="24" y="0" fill="white" fontSize="30" fontFamily="Roboto" fontWeight="500">
+      Tickets
+    </text>
+  </g>
+</svg>
